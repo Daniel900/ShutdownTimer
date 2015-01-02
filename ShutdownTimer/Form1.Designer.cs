@@ -169,7 +169,8 @@
             this.Controls.Add(this.checkForce);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(294, 162);
+            this.MaximumSize = new System.Drawing.Size(294, 188);
+            this.MinimumSize = new System.Drawing.Size(294, 188);
             this.Name = "Form1";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.Text = "Shutdown Timer";

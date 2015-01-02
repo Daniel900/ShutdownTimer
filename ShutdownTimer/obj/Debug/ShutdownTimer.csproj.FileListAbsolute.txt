@@ -11,3 +11,6 @@ D:\Cloudstation\home\Dokumente\Visual Studio 2013\Projects\ShutdownTimer\Shutdow
 D:\Cloudstation\home\Dokumente\Visual Studio 2013\Projects\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.exe
 D:\Cloudstation\home\Dokumente\Visual Studio 2013\Projects\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.pdb
 D:\Cloudstation\home\Dokumente\Visual Studio 2013\Projects\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.csprojResolveAssemblyReference.cache
+D:\Cloudstation\home\Dokumente\GitHub\ShutdownTimer\ShutdownTimer\bin\Debug\ShutdownTimer.exe.config
+D:\Cloudstation\home\Dokumente\GitHub\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.exe
+D:\Cloudstation\home\Dokumente\GitHub\ShutdownTimer\ShutdownTimer\obj\Debug\ShutdownTimer.pdb
