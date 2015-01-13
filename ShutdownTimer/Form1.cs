@@ -61,7 +61,7 @@ namespace ShutdownTimer
             double shutdownSeconds = seconds;
             //Calc to seconds
             shutdownMinutes += hours * 60;
-            shutdownSeconds += minutes * 60;
+            shutdownSeconds += shutdownMinutes * 60;
 
             if (checkForce.Checked)
             {
